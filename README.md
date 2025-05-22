@@ -8,6 +8,5 @@
 ![image-here](/images/2.png)
 ![image-here](/images/3.png)
 ![image-here](/images/4.png)
-![image-here](/images/5.png)
 ![image-here](/images/6.png)
 ![image-here](/images/7.png)
