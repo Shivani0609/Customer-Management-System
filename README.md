@@ -5,7 +5,6 @@
 ## Some Application Screens
 
 ![image-here](/images/1.png)
-![image-here](/images/2.png)
 ![image-here](/images/3.png)
 ![image-here](/images/4.png)
 ![image-here](/images/6.png)
